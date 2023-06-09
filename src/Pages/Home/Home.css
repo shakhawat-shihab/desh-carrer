@@ -1,0 +1,47 @@
+.home{
+    font-family: sans-serif;
+    padding: 3rem;
+}
+
+.home h1{
+    font-size: 3.2rem;
+    font-family: sans-serif;
+    color: #192733;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.home p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: sans-serif;
+}
+
+.input-area{
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    border-radius: 5px;
+    height: 65px;
+    margin:2px;
+}
+
+.input-area span{
+    width:10%;
+}
+
+.input-area input{
+    width:65%;
+    border: none;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+.input-area button{
+    width:23%;
+}
+
+.custom-button{
+    background-color: #dc3545 !important ;
+    height: 45px;
+}

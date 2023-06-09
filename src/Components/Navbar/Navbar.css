@@ -1,0 +1,31 @@
+.navbar-design{
+    padding: 30px 16px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+
+.normal-design{
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.normal-design:hover{
+    color:#dc3545;
+}
+
+.active-design{
+    color:#dc3545;
+    text-decoration: none;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.active-design:hover{
+    color:#dc3545;
+}
