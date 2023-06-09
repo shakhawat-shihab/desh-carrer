@@ -29,7 +29,7 @@
 }
 
 .input-area input{
-    width:65%;
+    width:60%;
     border: none;
 }
 
@@ -38,10 +38,12 @@ input:focus-visible {
 }
 
 .input-area button{
-    width:23%;
+    width:28%;
 }
 
 .custom-button{
     background-color: #dc3545 !important ;
     height: 45px;
 }
+
+

@@ -5,17 +5,17 @@ import "./Home.css";
 const Home = () => {
   return (
     <div className="container">
-      <div class="row">
-        <div class="col-sm-12 col-md-8 col-lg-8 col-xl-8 home">
+      <div className="row">
+        <div className="col-sm-12 col-md-9 col-lg-8 col-xl-8 home">
           <h1>Get Smarter about your career </h1>
           <p>
             Get the <strong> 5-minute newsletter</strong> keeping about smart
             career
           </p>
-          <div class="subcription">
+          <div className="subcription">
             <form action="https://deshcareer.com/subscribe" method="post">
-              <div class="input-area d-flex align-items-center">
-                <span class="mail-icon text-center ">
+              <div className="input-area d-flex align-items-center">
+                <span className="mail-icon text-center ">
                   <FiMail fontSize={25} />
                 </span>
                 <input
@@ -40,7 +40,7 @@ const Home = () => {
             </p>
           </div>
         </div>
-        <div class="col-sm-12 col-md-4 col-lg-4 col-xl-4"></div>
+        <div className="col-sm-12 col-md-3 col-lg-4 col-xl-4"></div>
       </div>
     </div>
   );
