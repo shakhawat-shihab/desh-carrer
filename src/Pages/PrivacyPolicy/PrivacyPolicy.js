@@ -2,6 +2,7 @@ import React from "react";
 import "./PrivacyPolicy.css";
 
 const PrivacyPolicy = () => {
+  document.title = "Privacy Policy";
   return (
     <div className="container">
       <div className="row my-5">

@@ -3,6 +3,7 @@ import { FiMail } from "react-icons/fi";
 import "./Home.css";
 
 const Home = () => {
+  document.title = "Newsteller Home Page";
   return (
     <div className="container">
       <div className="row">

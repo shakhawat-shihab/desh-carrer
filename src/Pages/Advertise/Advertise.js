@@ -2,6 +2,7 @@ import React from "react";
 import "../AboutUs/AboutUs.css";
 
 const Advertise = () => {
+  document.title = "Advertise";
   return (
     <div className="container">
       <div className="row my-5">

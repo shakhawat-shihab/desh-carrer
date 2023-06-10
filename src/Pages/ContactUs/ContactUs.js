@@ -2,6 +2,7 @@ import React from "react";
 import "../AboutUs/AboutUs.css";
 
 const ContactUs = () => {
+  document.title = "Contact Us";
   return (
     <div className="container">
       <div className="row my-5">

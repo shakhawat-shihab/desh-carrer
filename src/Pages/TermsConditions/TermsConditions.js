@@ -2,6 +2,7 @@ import React from "react";
 import "./TermsConditions.css";
 
 const TermsConditions = () => {
+  document.title = "Terms Conditions";
   return (
     <div className="container">
       <div className="row my-5">
