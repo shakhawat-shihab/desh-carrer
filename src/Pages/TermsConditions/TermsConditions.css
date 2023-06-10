@@ -1,0 +1,13 @@
+h1{
+    font-size: 3.2rem;
+}
+
+div p{
+    /* background-color: blue; */
+    font-family: sans-serif;
+}
+
+.web-link{
+    text-decoration: underline;
+    background-color: rgb(242, 236, 236);
+}

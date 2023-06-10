@@ -38,7 +38,7 @@ const Footer = () => {
               <a href="https://deshcareer.com/new/faqs">FAQ</a>
             </div>
           </div>
-          <div className="col-lg-3 col-6 text-align-center footer-support">
+          <div className="col-lg-3 col-6 text-align-center footer-support pe-2">
             <h4 className="text-white mb-3 text-end">Support</h4>
             <div className="d-flex flex-column special-links text-end">
               <a href="https://deshcareer.com">Affiliate Link</a>

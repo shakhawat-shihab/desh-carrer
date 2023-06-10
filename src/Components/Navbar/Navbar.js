@@ -2,21 +2,18 @@ import React, { useState } from "react";
 import logo from "../../assets/images/short-logo.png";
 import { Link, NavLink } from "react-router-dom";
 import "./Navbar.css";
-import $ from "jquery";
 const Navbar = () => {
-  const [show, setShow] = useState(false);
-
   return (
     // <React.Fragment>
     <div className="navbar-design">
-      <nav className="navbar navbar-expand-lg bg-body-tertiary">
+      <nav className="navbar navbar-expand-lg">
         <div className="container">
           <a className="navbar-brand" href="/">
             <img
               src={logo}
               alt="Logo"
-              width="150"
-              height="70"
+              width="200"
+              height="80"
               className="d-inline-block align-text-top"
             />
           </a>

@@ -47,3 +47,11 @@ input:focus-visible {
 }
 
 
+@media (max-width: 400px){ 
+    .input-area input{
+        width:55%;
+    }
+    .input-area button{
+        width:35%;
+    }
+}

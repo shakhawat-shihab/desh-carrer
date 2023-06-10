@@ -33,3 +33,10 @@
 /* .collapse:not(.show) {
     display: none;
   } */
+
+
+  @media (max-width: 992px){ 
+    .navbar-nav{
+        text-align: center;
+    }
+}

@@ -1,0 +1,11 @@
+h1{
+    font-size: 3.2rem;
+}
+.email-address{
+    text-decoration: none ;
+}
+
+.email-address:hover{
+    text-decoration: underline;
+}
+
